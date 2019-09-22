@@ -6,7 +6,7 @@ Dom Manipulation Chrome Extension
 4. From left top corner select Load unpacked 
 5. Now select this folder which is unzipped by you. 
 6. Done Installation of extension. 
-7. Start Using -
-   7.1 Go to your Web Application page. 
-   7.2 Select required html view you wish to see details.
+7. Start Using - </br>
+   7.1 Go to your Web Application page. </br>
+   7.2 Select required html view you wish to see details. </br>
    7.3 Now click extension icon to view its details. 
