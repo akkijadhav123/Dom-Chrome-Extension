@@ -1,7 +1,8 @@
 {
     "name": "Extension Pop Up",
     "version": "1.0",
-    "description": "Employee Info!",  
+    "description": "Accessing DOM element from your web application!",
+    "author": "Akshay Jadhav",  
     "manifest_version": 2,
     "icons": {
       "128": "icon.png"
